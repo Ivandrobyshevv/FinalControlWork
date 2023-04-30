@@ -442,7 +442,7 @@ class Donkey(PackedAnimal):
 
 **Задание 14 и Задание 15**
 
-(**Решение**)[https://github.com/Ivandrobyshevv/AnimalRegistrationSystem]
+[**Решение**](https://github.com/Ivandrobyshevv/AnimalRegistrationSystem)
 
 
 
